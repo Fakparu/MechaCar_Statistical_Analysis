@@ -36,5 +36,24 @@ From he dataframe above, The variance, which is 62.29 PSI within variance requir
 Boxplot below shows the difference between the lots.
 ![plt2](https://user-images.githubusercontent.com/105121697/185829134-201e7355-cec0-468f-a43b-0f0b7a531274.png)
 
+## T-Tests on Suspension Coils
+Summary of the t-test results across all manufacturing lots
+
+![Summary of t-test results](https://user-images.githubusercontent.com/105121697/185936401-9f8a5851-768b-4eba-a39c-d0caa0f5df3e.png)
+
+From the summary of the t-test result above, the true mean of the sample is 1498.78 with a p-Value of 0.06. p-Value of 0.06 is is higher when compared to common p-Value significant level, which is 0.05. Null hypothesis is not rejected as there is no enough evidence to support that, the mean of the three manufacturing Lots is statistically similare to the population of 1500.
+
+For each of the Lot:
+1. Lot 1 sample true mean sample is 1500 with the p-Value of 1.There is no statistical difference between the presumed population mean of 1500 and the observed sample mean. Hence, Null Hypothesis cannot be accepted.
+![Lot 1](https://user-images.githubusercontent.com/105121697/185940557-21c1afe9-ce9d-4e95-89ae-965d166d69ff.png)
+
+2. Lot 2 outcome is very close to to the sample mean, which is 1500.02 with a --Value of 0.61.The sample mean and the populationmean of 1500 are statistically similar. Hence, Null Hypothesis cannot be rejected.
+![Lot 2](https://user-images.githubusercontent.com/105121697/185941827-54daebfa-7ed5-4d61-b0a8-4782bf47e52c.png)
+
+3. Lot 3 is somewhat different with a sample mean of 1496.16 and p-Value of 0.04. Lot 3 p-Value is however lower than the commonn significance level of 0.05.The sample mean and the presumed population mean are statistically different and consequently, null hypothesis will be rejected.
+![Lot 3](https://user-images.githubusercontent.com/105121697/185943384-8b2c505e-03f5-474e-8f75-61d1614c37a5.png)
+
+Lot 3 production cycle did not perform like others. The system should inspected and maintained, also suspension coils updatedto achieve the desired result. 
+
 
 
