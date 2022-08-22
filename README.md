@@ -20,3 +20,6 @@ This project is about AutoRUs' newest prototype, that is suffering from producti
 •	The slope of the linear model is not zero. For this model, the p-Value is 5.35e-11 which is smaller than the significant level, 0.05%. So,this indicates that Null hypothesis can be rejected as there is enough evidence.
 
 •	The r-squared value for the linear model is 0.7149, which when approximated becomes 71% of all mpg prediction of MechaCar prototypes. Comparatively, linear model can predict mpg of MechaCar prototypes effectively
+
+
+## Summary Statistics on Suspension Coils
