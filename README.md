@@ -12,6 +12,7 @@ This project is about AutoRUs' newest prototype, that is suffering from producti
 
 •	Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.
 
+
 ## Linear Regression to Predict MPG
 ![Linear Regression Screenshot ](https://user-images.githubusercontent.com/105121697/185819719-e128fe8a-0884-4e76-b57b-350e6fcaa7ba.png)
 
@@ -20,6 +21,7 @@ This project is about AutoRUs' newest prototype, that is suffering from producti
 •	The slope of the linear model is not zero. For this model, the p-Value is 5.35e-11 which is smaller than the significant level, 0.05%. So,this indicates that Null hypothesis can be rejected as there is enough evidence.
 
 •	The r-squared value for the linear model is 0.7149, which when approximated becomes 71% of all mpg prediction of MechaCar prototypes. Comparatively, linear model can predict mpg of MechaCar prototypes effectively
+
 
 
 ## Summary Statistics on Suspension Coils
@@ -35,6 +37,7 @@ From he dataframe above, The variance, which is 62.29 PSI within variance requir
 
 Boxplot below shows the difference between the lots.
 ![plt2](https://user-images.githubusercontent.com/105121697/185829134-201e7355-cec0-468f-a43b-0f0b7a531274.png)
+
 
 ## T-Tests on Suspension Coils
 Summary of the t-test results across all manufacturing lots
