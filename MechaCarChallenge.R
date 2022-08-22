@@ -17,10 +17,6 @@ lm(mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_clearance + AW
 summary(lm(mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_clearance + AWD, data=mecha_mpg)) 
 
 
-# eliminate the independent variables that have little impact on predicting mpg to see impact:
-lm(mpg ~ vehicle_length + ground_clearance, data=mecha_mpg)
-summary(lm(mpg ~ vehicle_length + ground_clearance, data=mecha_mpg)) 
-
 
 
 ## DELIVERABLE 2
@@ -43,17 +39,7 @@ lot_summary <- mecha_coil  %>% group_by(Manufacturing_Lot) %>% summarize(Mean_PS
                                                                          Std_Dev_PSI=sd(PSI),
                                                                          Num_Coil=n(), .groups = 'keep')  
 
-# box plot: PSI Whole lot
-library(tidyverse)
-library(ggplot2)
-plt1 <- ggplot(mecha_coil,aes(y=PSI)) 
-plt1 + geom_boxplot()
 
-#box plot: PSI each individual Lot
-library(tidyverse)
-library(ggplot2)
-plt2 <- ggplot(mecha_coil,aes(x=Manufacturing_Lot,y=PSI)) 
-plt2 + geom_boxplot()
 
 
 
