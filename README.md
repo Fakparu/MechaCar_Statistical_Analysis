@@ -31,6 +31,6 @@ Lots_Summary Dataframe
 
 ![Lot_Summary Screenshot](https://user-images.githubusercontent.com/105121697/185826293-3f5c2297-fce3-422f-9313-0555842f67d7.png)
 
-From he dataframe above, The variance, which is 62.29 PSI within variance requirement of 100 PSI. Lots1 and Lots2 lso has variance of 0.98 and 7.47 respectively which is within the 100 PSI variance requirement but Lot3 has a variance of 170.29, which is very high compared to Lots1 and Lots2. Lot1 and Lot2vidau 
+From he dataframe above, The variance, which is 62.29 PSI within variance requirement of 100 PSI. Lots1 and Lots2 lso has variance of 0.98 and 7.47 respectively which is within the 100 PSI variance requirement but Lot3 has a variance of 170.29, which is very high compared to Lots1 and Lots2. Lot1 and Lot2 individually meet the design specification but all manufacturing Lots in total does not as Lot3 high variance pulls it up to 62.29 PSI.
 
 
