@@ -24,9 +24,11 @@ This project is about AutoRUs' newest prototype, that is suffering from producti
 
 ## Summary Statistics on Suspension Coils
 Total_Summary
+
 ![Total Summary Screenshot ](https://user-images.githubusercontent.com/105121697/185826144-5427ca0c-d2f7-40f5-b2b0-35cc6afe6eb6.png)
 
 Lots_Summary
+
 ![Lot_Summary Screenshot](https://user-images.githubusercontent.com/105121697/185826293-3f5c2297-fce3-422f-9313-0555842f67d7.png)
 
 
