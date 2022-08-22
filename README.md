@@ -59,10 +59,10 @@ The performance of the lots were not consistent, Lot 3 production cycle perfomed
 ## Study Design: MechaCar vs Competition
 The metrics to be tested are cost, city or highway fuel efficiency, horse power, maintainance cost or safety rating.
 
-# Null and Alternate Hypothesis
+### Null and Alternate Hypothesis
 The null hypothesis: The key factors that drives MechaCar customers is the cost which matches the key performance factors. 
 The Alternate Hypothesis: MechaCar key performace factors does not match the cost of MechaCar.
 
-# Statistical Tests
+### Statistical Tests
 This can be determined using linear regression, which can evaluate the factors that relate directly with the highest determing metrics, the price.
 
