@@ -51,6 +51,7 @@ For each of the Lot:
 ![Lot 2](https://user-images.githubusercontent.com/105121697/185941827-54daebfa-7ed5-4d61-b0a8-4782bf47e52c.png)
 
 3. Lot 3 is somewhat different with a sample mean of 1496.16 and p-Value of 0.04. Lot 3 p-Value is however lower than the commonn significance level of 0.05.The sample mean and the presumed population mean are statistically different and consequently, null hypothesis will be rejected.
+
 ![Lot 3](https://user-images.githubusercontent.com/105121697/185943384-8b2c505e-03f5-474e-8f75-61d1614c37a5.png)
 
 Lot 3 production cycle did not perform like others. The system should inspected and maintained, also suspension coils updatedto achieve the desired result. 
