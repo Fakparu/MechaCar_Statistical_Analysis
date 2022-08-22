@@ -23,12 +23,14 @@ This project is about AutoRUs' newest prototype, that is suffering from producti
 
 
 ## Summary Statistics on Suspension Coils
-Total_Summary
+Total_Summary Dataframe
 
 ![Total Summary Screenshot ](https://user-images.githubusercontent.com/105121697/185826144-5427ca0c-d2f7-40f5-b2b0-35cc6afe6eb6.png)
 
-Lots_Summary
+Lots_Summary Dataframe
 
 ![Lot_Summary Screenshot](https://user-images.githubusercontent.com/105121697/185826293-3f5c2297-fce3-422f-9313-0555842f67d7.png)
+
+From he dataframe above, The variance, which is 62.29 PSI within variance requirement of 100 PSI. Lots1 and Lots2 lso has variance of 0.98 and 7.47 respectively which is within the 100 PSI variance requirement but Lot3 has a variance of 170.29, which is very high compared to Lots1 and Lots2. Lot1 and Lot2vidau 
 
 
