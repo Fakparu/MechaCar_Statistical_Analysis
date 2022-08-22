@@ -54,7 +54,15 @@ For each of the Lot:
 
 ![Lot 3](https://user-images.githubusercontent.com/105121697/185943384-8b2c505e-03f5-474e-8f75-61d1614c37a5.png)
 
-Lot 3 production cycle did not perform like others. The system should inspected and maintained, also suspension coils updatedto achieve the desired result. 
+The performance of the lots were not consistent, Lot 3 production cycle perfomed differently from Lot 1 and Lot2. The system should inspected and maintained, also suspension coils updated to achieve the desired result. 
 
+## Study Design: MechaCar vs Competition
+The metrics to be tested are cost, city or highway fuel efficiency, horse power, maintainance cost or safety rating.
 
+# Null and Alternate Hypothesis
+The null hypothesis: The key factors that drives MechaCar customers is the cost which matches the key performance factors. 
+The Alternate Hypothesis: MechaCar key performace factors does not match the cost of MechaCar.
+
+# Statistical Tests
+This can be determined using linear regression, which can evaluate the factors that relate directly with the highest determing metrics, the price.
 
