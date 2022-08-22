@@ -39,8 +39,7 @@ From he dataframe above, The variance, which is 62.29 PSI within variance requir
 ## T-Tests on Suspension Coils
 Summary of the t-test results across all manufacturing lots
 
-![Summary of t-test results](https://user-images.githubusercontent.com/105121697/185936401-9f8a5851-768b-4eba-a39c-d0caa0f5df3e.png)
-
+![Summary of  t-test result](https://user-images.githubusercontent.com/105121697/185980958-b529337d-9e12-449e-aac2-8b965437d83f.png)
 From the summary of the t-test result above, the true mean of the sample is 1498.78 with a p-Value of 0.06. p-Value of 0.06 is is higher when compared to common p-Value significant level, which is 0.05. Null hypothesis is not rejected as there is no enough evidence to support that, the mean of the three manufacturing Lots is statistically similare to the population of 1500.
 
 For each of the Lot:
