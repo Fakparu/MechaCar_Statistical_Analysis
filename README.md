@@ -57,7 +57,7 @@ For each of the Lot:
 The performance of the lots were not consistent, Lot 3 production cycle perfomed differently from Lot 1 and Lot2. The system should inspected and maintained, also suspension coils updated to achieve the desired result. 
 
 ## Study Design: MechaCar vs Competition
-The metrics to be tested are cost, city or highway fuel efficiency, horse power, maintainance cost or safety rating.
+The metrics to be tested are cost, city or highway fuel efficiency, horse power, and maintainance cost or safety rating.
 
 ### Null and Alternate Hypothesis
 The null hypothesis: The key factors that drives MechaCar customers is the cost which matches the key performance factors. 
