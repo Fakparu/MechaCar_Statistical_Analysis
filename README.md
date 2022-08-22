@@ -17,4 +17,6 @@ This project is about AutoRUs' newest prototype, that is suffering from producti
 
 •	From the above dataset, the variables that provided a non-random amount of variance to the mpg values in the dataset are vehicle_length and ground_clearance. Both vehicle_length and ground_clearance tend to have a significant impact on miles per gallon on the MechaCar prototype. Whereas, the other variables such as vehicle weight, spoiler_angle, All Wheel Drive(AWD) have p-Values which indicates that there is a random amount of variance with the dataset.
 
-•	Is the slope of the linear model considered to be zero? Why or why not?
+•	The slope of the linear model is not zero. For this model, the p-Value is 5.35e-11 which is smaller than the significant level, 0.05%. So,this indicates that Null hypothesis can be rejected as there is enough evidence.
+
+•	The r-squared value for the linear model is 0.7149, which when approximated becomes 71% of all mpg prediction of MechaCar prototypes. Comparatively, linear model can predict mpg of MechaCar prototypes effectively
