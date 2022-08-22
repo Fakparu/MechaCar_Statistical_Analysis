@@ -14,3 +14,7 @@ This project is about AutoRUs' newest prototype, that is suffering from producti
 
 # Linear Regression to Predict MPG
 ![Linear Regression Screenshot ](https://user-images.githubusercontent.com/105121697/185819719-e128fe8a-0884-4e76-b57b-350e6fcaa7ba.png)
+
+•	From the above dataset, the variables that provided a non-random amount of variance to the mpg values in the dataset are vehicle_length and ground_clearance. Both vehicle_length and ground_clearance tend to have a significant impact on miles per gallon on the MechaCar prototype. Whereas, the other variables such as vehicle weight, spoiler_angle, All Wheel Drive(AWD) have p-Values which indicates that there is a random amount of variance with the dataset.
+
+•	Is the slope of the linear model considered to be zero? Why or why not?
