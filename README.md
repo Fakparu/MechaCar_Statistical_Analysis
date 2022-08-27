@@ -46,7 +46,7 @@ For each of the Lot:
 1. Lot 1 sample true mean sample is 1500 with the p-Value of 1.There is no statistical difference between the presumed population mean of 1500 and the observed sample mean. Hence, Null Hypothesis cannot be accepted.
 ![Lot 1](https://user-images.githubusercontent.com/105121697/185940557-21c1afe9-ce9d-4e95-89ae-965d166d69ff.png)
 
-2. Lot 2 outcome is very close to to the sample mean, which is 1500.02 with a --Value of 0.61.The sample mean and the populationmean of 1500 are statistically similar. Hence, Null Hypothesis cannot be rejected.
+2. Lot 2 outcome is very close to to the sample mean, which is 1500.02 with a p-Value of 0.61.The sample mean and the populationmean of 1500 are statistically similar. Hence, Null Hypothesis cannot be rejected.
 ![Lot 2](https://user-images.githubusercontent.com/105121697/185941827-54daebfa-7ed5-4d61-b0a8-4782bf47e52c.png)
 
 3. Lot 3 is somewhat different with a sample mean of 1496.16 and p-Value of 0.04. Lot 3 p-Value is however lower than the commonn significance level of 0.05.The sample mean and the presumed population mean are statistically different and consequently, null hypothesis will be rejected.
